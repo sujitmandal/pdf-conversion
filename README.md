@@ -3,7 +3,7 @@ Convert different file into pdf, csv, xlsx
 
 ## Required package’s:
 ```
-• pip install json
+• pip install fpdf
 
 • pip install pandas
 ```
